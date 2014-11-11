@@ -77,7 +77,12 @@
     <Content Include="images\aboutmepic.png" />
     <Content Include="images\aboutmepic2.png" />
     <Content Include="images\aboutmepic3.png" />
+    <Content Include="images\foredrag-alf.jpg" />
+    <Content Include="images\foredrag-audun.jpg" />
     <Content Include="images\foredrag-flo.png" />
+    <Content Include="images\foredrag-geir.jpg" />
+    <Content Include="images\foredrag-sturle.jpg" />
+    <Content Include="images\foredrag-ugur.jpg" />
     <Content Include="images\jci-logo.png" />
     <Content Include="images\jci-logor.png" />
     <Content Include="images\jci-logow.png" />
